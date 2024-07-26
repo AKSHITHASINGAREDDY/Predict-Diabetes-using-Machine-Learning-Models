@@ -1,16 +1,16 @@
 # Predict-Diabetes-using-Machine-Learning-Models
 
 ## Libraries used:
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Sklearn
-Flask
+Pandas,
+Numpy,
+Matplotlib,
+Seaborn,
+Sklearn,
+Flask.
 
 ## Applications used:
-Jupyer Notebook
-Python Idle(3.9 64 bit)
+Jupyer Notebook,
+Python Idle(3.9 64 bit).
 
 ## Dataset
 PIMA Indian Diabetes dataset
